@@ -1,6 +1,6 @@
 # robots-txt
 
-This program allows you to download the robots.txt from a website. in this txt-data stands, which areas of the website are allowed and which are for normal visitors forbidden.
+This program allows you to download the robots.txt from a website. in this txt-data stands, which areas of the website are allowed for bots and which are  forbidden.
 
 Music by Bobjt
 
